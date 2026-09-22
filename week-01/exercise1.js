@@ -32,3 +32,7 @@ if (isLearningToCode) {
 } else {
     console.log("Not learning right now.");
 }
+
+for ( let i=0; i<5; i++) {
+    console.log (i);
+}
